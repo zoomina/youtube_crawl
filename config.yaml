@@ -1,0 +1,13 @@
+# config
+# youtube api token
+DEVELOPER_KEY: "" 
+
+# EXACT channel names want to find. 
+channel_names: ['']
+
+playlists: 'uploaded' #"uploaded", "all", or [] any playlists of any channel names above
+
+top_n:
+  based_on: views # views, likes, comments
+  how_many_videos: 5 # integer. -1 for all
+  include_comments: True # True, False
