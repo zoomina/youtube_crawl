@@ -1,7 +1,4 @@
----
-lastmod: '2022-02-12'
----
-# youtube_crowl
+# youtube_crawl
 
 코드스테이츠 GMB 7기 과정 참여 중, 시장조사를 위한 Youtube 크롤링 진행 코드  
 
