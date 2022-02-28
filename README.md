@@ -1,3 +1,6 @@
+---
+lastmod: '2022-03-01'
+---
 # youtube_crawl
 
 코드스테이츠 GMB 7기 과정 참여 중, 시장조사를 위한 Youtube 크롤링 진행 코드  
@@ -23,3 +26,6 @@ https://public.tableau.com/views/youtube_hanzzan/1?:showVizHome=no&:embed=true
 (베타 버전)
 config.yaml 파일을 수정 후 `python main.py` 실행
 - top_n 기능 미구현
+
+2/28 추가
+- 위 스키마 형식의 csv 생성 기능 추가
