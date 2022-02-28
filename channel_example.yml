@@ -1,0 +1,34 @@
+# channel
+
+리니비니:
+- id : 0102310230
+- playlists: 
+- - 리니비니x:
+- - - id: 10231239
+- - - videos: 
+- - - - "위스키 담가머거요!": 
+- - - - - id : 012301429
+- - - - - likes: 130
+- - - - - comments: 123
+- - - - - views: 103231
+- - - - - comment_text:
+- - - - - - 안녕하세요~
+- - - - - - 좋아요~
+
+channel: 리니비니
+- - id : 01230123
+- - playlists: 
+- -  
+
+ouptut[0] = channel_dict
+{channel_name: 리니비니, id: 012394, playlists: ...}
+
+playlists[0]
+{playlist_name: 리니비니x, id: 0123, videos: ...}
+
+videos[0]
+{title: 위스키 담가먹자, id: 3142, likes: 123, comments: 123, views: 32, comment_text: ...}
+
+comment_text[0]
+"안뇽하세용"
+

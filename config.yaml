@@ -1,11 +1,13 @@
 # config
 # youtube api token
-DEVELOPER_KEY: "" 
+DEVELOPER_KEY: "AIzaSyC60i3-AFhlGefLSptlZE8QIhWkW1s8z3s" 
 
 # EXACT channel names want to find. 
-channel_names: ['']
+channel_names: ['리니비니']
 
 playlists: 'uploaded' #"uploaded", "all", or [] any playlists of any channel names above
+
+save: 'csv' # json or csv
 
 top_n:
   based_on: views # views, likes, comments
