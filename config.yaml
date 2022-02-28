@@ -1,6 +1,6 @@
 # config
 # youtube api token
-DEVELOPER_KEY: "AIzaSyC60i3-AFhlGefLSptlZE8QIhWkW1s8z3s" 
+DEVELOPER_KEY: "" 
 
 # EXACT channel names want to find. 
 channel_names: ['리니비니']
